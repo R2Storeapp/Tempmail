@@ -61,6 +61,9 @@
 ![Screenshot 2023-10-13 202541](https://github.com/R2Storeapp/Tempmail/assets/147613731/0b372458-2477-4cc2-9d72-7d085f05fe9f)
 
 
+**Extension price : 5$**
+
+
 ### Buy now extension
 
 [com.R2Store.Tempmail.aix](http://r2store.000.pe/)
