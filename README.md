@@ -1,5 +1,3 @@
-# Tempmail
-
 **[ PAID ] Tempmail Extension** 
 
 **Released on :** 13 October 2023
@@ -63,8 +61,12 @@
 ![Screenshot 2023-10-13 202541](https://github.com/R2Storeapp/Tempmail/assets/147613731/0b372458-2477-4cc2-9d72-7d085f05fe9f)
 
 
-### Download
+### Buy now extension
 
 [com.R2Store.Tempmail.aix](http://r2store.000.pe/)
 
+
+### Download demo APK
+
+[Tempmail.apk](https://cdn.discordapp.com/attachments/1161595389640704070/1162397874886283364/Tempmail.apk?ex=653bca61&is=65295561&hm=7a6be38416f6dab3747cd2a8ff268dfb99440d628b76896ec2305025ebe26fb8&)
 
