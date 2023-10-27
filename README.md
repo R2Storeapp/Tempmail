@@ -64,17 +64,11 @@
 
 
 
-# 🧩 More extensions
-🔗 <a href="http://r2store.000.pe/">See more extensions</a>
+# 🧩 More Aix
+ <a href="http://r2store.000.pe/">See more extensions</a>
 
-## 📝 Extension specifications:
+## Extension specifications
 
 Buy now extension
 ### Extension price : 6$
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.R2Store.Tempmail</a> (16.49 KB) \
-<b>⚙️ Version:</b> 1.0\
-<b>🈸 Demo Apk:</b> <a href="https://cdn.discordapp.com/attachments/1161595389640704070/1162397874886283364/Tempmail.apk?ex=654e3f61&is=653bca61&hm=d711b07f61efce71facc1889a9343ac43f8a74cd000bea7b4dbee5c0eb87f515&">TempMail.apk</a> \
-⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
-<b>🌏 Released On:</b> 27 October 2023)\
-<b>🌏 Updated On:</b> 27 October 2023)\
-<b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.R2Store.Tempmail</a> (16.49 KB)
