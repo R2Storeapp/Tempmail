@@ -1,10 +1,10 @@
 **[ PAID ] Tempmail Extension** 
 
-**Released on :** 13 October 2023
+**🌎 Released on :** 27 October 2023
 
-**Updated on :** 13 October 2023
+**🌎 Updated on :** 27 October 2023
 
-**Latest Version :** 1.0
+**⚙️ Latest Version :** 1.0
 
 ## All Blocks
 
