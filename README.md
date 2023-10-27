@@ -65,8 +65,11 @@
 # 🧩 More Aix
  <a href="http://r2store.000.pe/">See more extensions</a>
 
-## Extension specifications
-
+> ****🌎 Released on :** 27 October 2023**
+> 
+> ****🌎 Updated on :** 27 October 2023**
+> 
+> ****⚙️ Latest Version :** 1.0**
 Buy now extension
 ### Extension price : 6$
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.R2Store.Tempmail</a> (16.49 KB)
