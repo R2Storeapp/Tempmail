@@ -70,7 +70,7 @@
 ## 📝 Extension specifications:
 
 Buy now extension
-### Extension price : 5$
+### Extension price : 6$
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.R2Store.Tempmail</a> (16.49 KB) \
 <b>⚙️ Version:</b> 1.0\
 <b>🈸 Demo Apk:</b> <a href="https://cdn.discordapp.com/attachments/1161595389640704070/1162397874886283364/Tempmail.apk?ex=654e3f61&is=653bca61&hm=d711b07f61efce71facc1889a9343ac43f8a74cd000bea7b4dbee5c0eb87f515&">TempMail.apk</a> \
