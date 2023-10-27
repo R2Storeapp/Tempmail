@@ -62,8 +62,6 @@
 
 
 
-
-
 # 🧩 More Aix
  <a href="http://r2store.000.pe/">See more extensions</a>
 
