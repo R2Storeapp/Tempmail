@@ -73,3 +73,13 @@
 Buy now extension
 ### Extension price : 6$
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.R2Store.Tempmail</a> (16.49 KB)
+
+**Extension Developer**
+
+**<p><img
+        src="https://i.postimg.cc/vBjHYYYZ/t.png"
+        title=":telegram:" class="emoji emoji-custom" alt=":telegram:" loading="lazy" width="20" height="20"> <a
+        href="https://t.me/R2_Store1/" target="_blank" rel="noopener nofollow ugc">Telegram</a><a href="http://r2store.000.pe" target="_blank" rel="noopener nofollow ugc"> <img
+            src="https://i.postimg.cc/vZrBXpWS/jigsaw.png"
+            title=":github:" class="emoji emoji-custom" alt=":github:" loading="lazy" width="20" height="20"> Aix Store</a><a href="http://r2store.000.pe" target="_blank" rel="noopener nofollow ugc">**
+
